@@ -1,7 +1,13 @@
 class StaticPagesController < ApplicationController
 
-def add_index 
+def index 
     @nome = "Iris"
+end
+
+def sobre
+end
+
+def contato
 end
 
 end
